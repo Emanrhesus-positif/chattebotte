@@ -1,0 +1,1332 @@
+{
+  "version": 1,
+  "corrections_count": 0,
+  "retrain_count": 0,
+  "mots": {
+    "excellent": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "super": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "parfaite": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "parfait": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "génial": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "formidable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "satisfait": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "content": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "bon": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "bien": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "rapide": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "rapidement": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "qualité": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "merveilleux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "top": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "impeccable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "parfaitement": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "facile": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "pratique": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "exceptionnel": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "remarquable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "agréable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "confortable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "efficace": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "performant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "fiable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "solide": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "beau": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "belle": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "joli": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "jolie": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "sympa": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "adoré": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "correct": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "soigné": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "remboursement": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "réactif": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "conforme": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "bonne": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "cool": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "nickel": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "superbe": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "magnifique": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "splendide": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "ravissant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "charmant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "délicieux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "succulent": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "exquis": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "fabuleux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "fantastique": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "sensationnel": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "extraordinaire": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "incroyable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "inoubliable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "hors": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "pair": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "inégalé": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "imbattable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "irréprochable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "épatant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "étonnant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "surprenant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "bluffant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "impressionnant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "extra": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "gratuit": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "offert": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "remisé": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "promo": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "offre": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "claire": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "clair": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "précis": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "net": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "limpide": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "transparent": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "simple": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "intuitif": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "ergonomique": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "fonctionnel": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "utile": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "indispensable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "essentiel": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "précieux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "incontournable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "complet": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "intégral": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "riche": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "varié": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "diversifié": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "robuste": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "résistant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "costaud": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "indestructible": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "puissant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "fort": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "musclé": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "véloce": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "vif": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "moderne": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "actuel": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "tendance": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "stylé": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "élégant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "raffiné": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "esthétique": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "harmonieux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "équilibré": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "proportionné": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "lumineux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "coloré": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "chatoyant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "brillant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "éclatant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "plaisant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "sympathique": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "accueillant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "chaleureux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "convivial": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "professionnel": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "compétent": {
+      "positif": 3,
+      "negatif": 0
+    },
+    " sérieux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "rigoureux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "ponctuel": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "présent": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "disponible": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "à l'écoute": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "attentionné": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "aimable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "courtois": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "poli": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "respectueux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "gentil": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "express": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "instantané": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "fulgurant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "propre": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "ordonné": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "méticuleux": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "emballage": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "protégé": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "sécurisé": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "bien emballé": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "suivi": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "tracé": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "informé": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "notifié": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "prévenu": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "satisfaisant": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "acceptable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "passable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "convenable": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "réglo": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "honnête": {
+      "positif": 3,
+      "negatif": 0
+    },
+    "mauvais": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "mauvaise": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "horrible": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "terrible": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "décevant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "déçu": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "lent": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "lente": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "cher": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "chère": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "cassé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "cassée": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "défectueux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "problème": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "dommage": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "insatisfait": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "fragile": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "compliqué": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "difficile": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "inutile": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "médiocre": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "abîmé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "abîmée": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "trop": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "pire": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "nul": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "nulle": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "arnaque": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "déplorable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "désastreux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "raté": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "inacceptable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "honteux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "catastrophe": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "excessif": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "excessive": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "excessifs": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "reçu": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "reçue": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "reçus": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "fonctionne": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "signalement": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "éclaté": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "pourri": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "pourrie": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "naze": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "moisi": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "moisie": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "minable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "lamentable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "infect": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "infecte": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "dégueulasse": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "dégueu": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "dégoûtant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "dégoutant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "merdique": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "foireux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "bâclé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "ringard": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "crado": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "sale": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "immonde": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "souillé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "affreux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "hideux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "moche": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "laid": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "laide": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "vilain": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "frustré": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "énervé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "irrité": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "furieux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "fâché": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "détestable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "exécrable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "insupportable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "intolérable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "inadmissible": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "scandaleux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "pitoyable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "fade": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "insipide": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "banal": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "quelconque": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "barbant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "ennuyeux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "chiant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "rasoir": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "lassant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "usé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "élimé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "miteux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "misérable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "triste": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "déprimant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "dépressif": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "morose": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "lugubre": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "stressant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "angoissant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "inquiétant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "choquant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "effrayant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "atroce": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "abominable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "navrant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "désolant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "consternant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "vexant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "blessant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "injuste": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "malhonnête": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "trompeur": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "mensonger": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "erroné": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "faux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "imprécis": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "approximatif": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "négligé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "idiot": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "stupide": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "bête": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "débile": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "dangereux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "risqué": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "périlleux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "cabossé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "rayé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "taché": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "sali": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "fêlé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "percé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "toxique": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "nuisible": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "nocif": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "malsain": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "bizarre": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "louche": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "suspect": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "douteux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "étrange": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "confus": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "embrouillé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "obscur": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "surfait": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "surévalué": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "trop cher": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "surcoté": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "inconfortable": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "mal conçu": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "peu pratique": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "encombrant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "bruyant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "poussiéreux": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "prise de tête": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "perte de temps": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "temps perdu": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "incomplet": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "manquant": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "manque": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "déchiré": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "décousu": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "détaché": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "déboîté": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "explosé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "volé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "perdu": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "endommagé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "détérioré": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "dégradé": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "corrompu": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "foutu": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "fichu": {
+      "positif": 0,
+      "negatif": 3
+    },
+    "esquinté": {
+      "positif": 0,
+      "negatif": 3
+    }
+  },
+  "historique": []
+}
