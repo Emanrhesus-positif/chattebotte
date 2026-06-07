@@ -1,3 +1,7 @@
+# Createur
+
+Romain Bories
+
 # SmartReview AI
 
 Application Streamlit d'analyse de sentiment pour avis clients e-commerce.
